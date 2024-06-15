@@ -1,5 +1,5 @@
  version: 2
-updates:
+updates:https://github.com/jirasakrattanawijit
 
   # Maintain dependencies for GitHub Actions
   - package-ecosystem: "github-actions"
